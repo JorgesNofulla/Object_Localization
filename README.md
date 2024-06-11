@@ -1,6 +1,6 @@
 # Object_Localization
 
-# Result of the first model (object classification and localization)
+# Result of the trained model (object classification and localization)
 
 <p align="center">
   <img src="https://github.com/JorgesNofulla/Object_Localization/assets/113198223/c3e20a0c-2d67-4a04-9ee4-8267c3fcd856" width="45%" />
