@@ -7,7 +7,7 @@ The repository contains the full codes used and the full data that can be used t
 1) [`Images`](./training_images): Images used in this repository
 1) [`Training and Testing`](Run_localization.ipynb): The full code that is used to train on the data and test some results.
 1) [`Label Data`](Label_data.ipynb): This is a code that creates training data out of images. Can be used to create your own costumize dataset :)
-# Result of the trained model (object classification and localization)
+## Result of the trained model (object classification and localization)
 
 <p align="center">
   <img src="https://github.com/JorgesNofulla/Object_Localization/assets/113198223/c3e20a0c-2d67-4a04-9ee4-8267c3fcd856" width="45%" />
